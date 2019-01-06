@@ -1,6 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
-![FindingLaneLines](./test_images_output/Extrapolating of solidYellowLeft.jpg)
+![FindingLaneLines](./writeup/Extrapolating_of_solidYellowCurve.jpg)
 
 ## Overview
 
